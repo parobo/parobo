@@ -1,10 +1,11 @@
-# Paul Bose
 
-Researcher at Tor Vergata University of Rome
+## Paul Bose
+Hi, I am a Researcher at Tor Vergata, University of Rome. 
 
 My work combines the use of text data from social networks and other forms of "big data" with methods in machine learning, natural language processing, and natural experiments.
 
 ## Skills
+- Causal methods
 - Python
 - Machine Learning
 - Text Analysis
