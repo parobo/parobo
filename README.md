@@ -27,6 +27,9 @@ My work combines the use of text data from social networks and other forms of "b
 - **BundestagsAPy**  
   [Description](https://www.paulbose.com/thisandthat/2023/bundestagsapy/) | [Code](https://github.com/parobo/BundestagsAPy)
 
+- **nametrace**
+  A python package for predicting gender and region of origin from a person's name. | [Code](https://github.com/parobo/nametrace)
+
 ## Connect
 - [Personal Website](https://www.paulbose.com/)
 - [Google Scholar](https://scholar.google.com/citations?user=2VbH880AAAAJ)
